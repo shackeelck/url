@@ -74,11 +74,12 @@ input, textarea {
 }
 Input.text, select, textarea {
 	font-family: Verdana, Arial;
-	font-size: 10px;
+	font-size: 11px;
 	color: #595441;
 	background-color: #FFFFFF;
 	border: 1px solid #88c0eb;
 	margin:1px;
+	padding: 6px 0px;
 }
 input.button {
 	font-family: Verdana, Arial;
@@ -88,6 +89,7 @@ input.button {
 	background-color: #FFFFFF;
 	border: 1px solid #88c0eb;
 	cursor:pointer;
+	padding: 5px 3px;
 }
 input.primary {
 	border:2px solid #2A85B3;
